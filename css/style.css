@@ -1,0 +1,127 @@
+
+*{
+   margin: 0px;
+   padding: 0px;   
+}
+body { background-color:rgb(207, 206, 206);
+    }
+nav ul{
+    color: blue;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;   
+    }
+
+h1{
+    color: blue;
+    font-size: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;    
+}
+
+h2{
+    color: blue;
+    font-size: 50px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h4{
+    color: blue;
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-size: 25px;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+}
+legend{
+    color: rgb(4, 4, 58);
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+label {
+    font-size: 20px;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+header {
+ background-color:white;
+ display: flex;
+ justify-content:space-between;
+ align-items: center; 
+}
+
+.logo {
+    display: flex;
+    height: 70px;
+   }
+
+   li {
+    color: blue;
+    margin-right: 50px;
+    list-style-type: none;       
+   }
+
+   .imagen_principal img{
+    text-align: center;
+    justify-content: center;
+    width: 700px;
+   }
+   footer {
+    background-color: white;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+   }
+
+   i {
+    margin: 0 10px;
+   }
+
+  .formulario {
+    top: 0%;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: center; 
+    font-size: 25px;   
+     }
+
+     .btn {
+       background-color:rgb(154, 153, 153);
+       font-size: 20px;
+       padding: 14px 20px;
+
+     }
+
+  a {
+    color: blue;
+  }
